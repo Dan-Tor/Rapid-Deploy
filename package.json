@@ -1,5 +1,5 @@
 {
-  "name": "misty-butterfly",
+  "name": "shy-sun",
   "version": "1.0.0",
   "description": "My app description",
   "scripts": {
@@ -11,8 +11,6 @@
     "watch": "gulp"
   },
   "dependencies": {
-    "async": "^1.5.2",
-    "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.15.1",
     "compression": "^1.6.2",
     "cookie-parser": "^1.4.1",
@@ -30,12 +28,9 @@
     "gulp-sass": "^2.2.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.3",
-    "jsonwebtoken": "^5.7.0",
-    "moment": "^2.12.0",
     "mongoose": "^4.4.8",
     "morgan": "^1.7.0",
     "nodemailer": "^2.3.0",
-    "request": "^2.69.0",
     "vinyl-buffer": "^1.0.0",
     "yargs": "^4.3.2"
   },
